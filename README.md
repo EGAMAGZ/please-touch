@@ -1,10 +1,9 @@
-# dont-touch
-Una app con un botón rojo gigante que dice “NO LO PRESIONES”. Si lo presionas, ocurren efectos cómicos
+# please-touch
+Una app con un botón verde gigante que dice “PRESIONALO”. Si no lo presionas, ocurren efectos cómicos
 
 Funcionalidades:
-*  Efectos y sonidos aleatorios al pulsar el botón.
-*  Logros desbloqueables por pulsaciones repetidas.
+*  Efectos y sonidos aleatorios al no pulsar el botón.
+*  Logros desbloqueables por tiempos prologados por falta de pulsaciones.
   
 Monetización:
-*  Compra para eliminar anuncios.
 *  Venta de efectos y sonidos adicionales.
